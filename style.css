@@ -1,0 +1,39 @@
+body{
+
+    background: url('bc.jpg');
+    background-repeat: no-repeat;
+    
+    background-size: 100% auto;
+
+
+}
+*{
+    box-sizing:border-box;
+    
+}
+
+.akash{
+
+    width: 400px;
+    margin:auto;
+    height: auto;
+    background:gray;
+    padding: 15px;
+
+}
+
+input[type=text]{
+    width: 100%;
+    padding: 10px;
+    font-size: 22px;
+   
+   
+   
+}
+input[type=button]{
+    width: 89px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 5px;
+}
